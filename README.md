@@ -1,4 +1,4 @@
-### Hi there 👋git
+### Hi there 👋
 
 ### Sun Sang Kwon
 <br>
