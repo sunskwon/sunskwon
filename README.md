@@ -1,9 +1,21 @@
 ### Hi there 👋
+
+### Sun Sang Kwon
 <br>
+
 🌱 Just got borned developer
 <br>
 
-#### Stack (be learning)
+#### Link
+
+-[Visit sunskwon's readme]
+(http://github.com/sunskwon)
+<br>
+-[Mailing to sunskwon]
+<a href="mailto:sunskwon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunskwon@gmail.com"/></a>
+<br>
+
+#### Be learning
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
 
