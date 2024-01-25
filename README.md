@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋git
 
 ### Sun Sang Kwon
 <br>
@@ -9,7 +9,7 @@
 #### Link
 
 -[Visit sunskwon's readme]
-(http://github.com/sunskwon)
+<a href="http://github.com/sunskwon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHubl&logoColor=white=http://github.com/sunskwon"/></a>
 <br>
 -[Mailing to sunskwon]
 <a href="mailto:sunskwon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunskwon@gmail.com"/></a>
