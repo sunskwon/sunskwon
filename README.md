@@ -17,7 +17,7 @@
 
 #### Be learning
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Java-007396?style=flat"/>
 
 <!--
 **sunskwon/sunskwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
